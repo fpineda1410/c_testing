@@ -9,9 +9,3 @@ int multiplies (int a, int b){
 }
 
 
-int main () {
-    
-    int a=multiplies (2, 4);
-    printf("%d", a);
-    return 0;
-}
